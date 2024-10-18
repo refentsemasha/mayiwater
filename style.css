@@ -130,6 +130,14 @@ body {
     padding: 24px;
     margin: 8px;
   }
+  .card-address {
+    background: white;
+    border-radius: 4px;
+    width: 300px;
+    text-align: center;
+    padding: 24px;
+    margin: 8px;
+  }
   .card-white img {
     width: 180px;
     height: 180px;
