@@ -62,6 +62,7 @@ body {
     font-size: 60px;
     font-weight: 800;
     margin: 10px;
+    height: 400x;
   }
   
   .banner p {
@@ -129,6 +130,7 @@ body {
     text-align: center;
     padding: 24px;
     margin: 8px;
+    height: 228px;
   }
   .card-address {
     background: white;
